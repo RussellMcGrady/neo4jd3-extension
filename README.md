@@ -1,2 +1,2 @@
-# neo4jd3-extension
-optimize the original neo4jd3 project from eisman
+# neo4jd3-extended
+Extend neo4jd3 with more features.
